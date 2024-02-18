@@ -1,11 +1,11 @@
 <h1>
-    <ruby>오준영<rp>(</rp><rt><sup>FE Developer</sup></rt><rp>)</rp></ruby>
+    <ruby>오준영</ruby>
     <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangju2000&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
     <a href="https://wakatime.com/@0f1d9f2a-fec5-4d7d-853d-26a2723da169"><img align="right" src="https://wakatime.com/badge/user/0f1d9f2a-fec5-4d7d-853d-26a2723da169.svg" alt="Total time coded since Dec 30 2022" /></a>
 
 </h1>
 
-[BLOG](https://kangju.dev/) | [RESUME](https://www.figma.com/file/LMT3t6sHeIpzLrvQN8H4qS/%EA%B0%95%EC%A3%BC%ED%98%81-%EC%9D%B4%EB%A0%A5%EC%84%9C?type=design&node-id=1%3A2&t=xewMh9tjCEBSq9HG-1)
+[Blog](https://kangju.dev/) | [RESUME]((https://5thneo.notion.site/Junyoung-Oh-01f6a3e9c0c54a7382a7d2e325d884e4))
 
 <br />
 <li>Viva Republica(Toss)<sup><a href="https://toss.im">↗</a></sup> / UX Engineer Assistant <sub>(2023.12 ~ )</sub></li>
@@ -43,19 +43,6 @@
 
 <br />
 
-<details open>
-
-<summary>&nbsp;<b>오픈소스에 기여했어요!</b></summary>
-
-<br />
-
-<li>Plasmo<sup><a href="https://github.com/PlasmoHQ/plasmo/pull/805">↗</a></sup></li>
-<li>Zustand<sup><a href="https://github.com/pmndrs/zustand/pull/1969">↗</a></sup></li>
-<li>Next.js 공식문서<sup><a href="https://github.com/Nextjs-kr/Nextjs.kr/pull/369">↗</a></sup></li>
-<li>React 공식문서<sup><a href="https://github.com/reactjs/ko.react.dev/pull/606">↗</a></sup></li>
-<li>chrome-extension-boilerplate-react-vite<sup><a href="https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/pull/99">↗</a></sup></li>
-
-</details>
 
 <br />
 
