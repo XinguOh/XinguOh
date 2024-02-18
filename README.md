@@ -5,7 +5,7 @@
 
 </h1>
 
-[Blog](https://kangju.dev/) | [RESUME]((https://5thneo.notion.site/Junyoung-Oh-01f6a3e9c0c54a7382a7d2e325d884e4))
+[Blog](https://kangju.dev/) | [RESUME](https://5thneo.notion.site/Junyoung-Oh-01f6a3e9c0c54a7382a7d2e325d884e4)
 
 <br />
 <li>Viva Republica(Toss)<sup><a href="https://toss.im">↗</a></sup> / UX Engineer Assistant <sub>(2023.12 ~ )</sub></li>
