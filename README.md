@@ -26,7 +26,7 @@
 
 > <b>개인 프로젝트</b>
 
-<li>Ace for you<sup><a href="https://github.com/Ace-for-you/FrontApp">↗</a></sup> <sub>(2024.02 ~ 2023.10)</sub></li>
+<li>Ace for you<sup><a href="https://github.com/Ace-for-you/FrontApp">↗</a></sup> <sub>(2024.02 ~ )</sub></li>
 
 </details>
 
