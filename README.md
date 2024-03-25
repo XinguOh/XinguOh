@@ -3,7 +3,7 @@
 
 <h1>🏫 Activities</h1>
 <li>UMC 5기 GCU Web 파트 스터디리더<sup><a href="https://www.makeus.in/umc">☞</a></sup> <sub>(2023.09 ~ 2024.02)</sub></li>
-<li>UMC 5기 GCU Web 파트장<sup><a href="https://www.makeus.in/umc">☞</a></sup> <sub>(2024.02 ~ 2025.02)</sub></li>
+<li>UMC 6기 GCU Web 파트장<sup><a href="https://www.makeus.in/umc">☞</a></sup> <sub>(2024.02 ~ 2025.02)</sub></li>
 
 <h1>👊 Projects</h1>
 <li>UMC Matching Center<sup><a href="https://github.com/UMC-Matching-Center/U.M.C_Web">☞</a></sup> <sub>(2023.12 ~ 2024.02)</sub></li>
