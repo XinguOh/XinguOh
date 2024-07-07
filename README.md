@@ -13,7 +13,7 @@
 <li><a href="https://github.com/wagle-wagle-hackathon/front">SomeTimez</a> <sub>(2024.02.16 ~ 2024.02.17, Frontend)</sub></li>
 
 <h2>Solo Projects</h2>
-<li><a href="https://github.com/ChatOverlay">ClaTalk</a> <sub>(2024.03.22 ~ 2024.06.24, Frontend & Backend)</sub></li>
+<li><a href="https://github.com/ChatOverlay">Clatalk</a> <sub>(2024.03.22 ~ 2024.06.24, Frontend & Backend)</sub></li>
 
 <h1>📊 Stats</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=XinguOh&show_icons=true&theme=dark" />
