@@ -6,10 +6,14 @@
 <li><a href="https://www.makeus.in/umc">UMC 6기 GCU Web 파트장</a> <sub>(2024.02 ~ 2025.02)</sub></li>
 
 <h1>👊 Projects</h1>
-<li><a href="https://github.com/UMC-Matching-Center/U.M.C_Web">UMC Matching Center<sup></a><sub>(2023.12 ~ 2024.02)</sub></li>
-<li><a href="https://github.com/INFJournal/front-end">INFJournal</a><sub>(2024.01.02 ~ 2024.01.03)</sub></li>
-<li><a href="https://github.com/wagle-wagle-hackathon/front">SomeTimez</a><sub>(2024.02.16 ~ 2024.02.17)</sub></li>
-<li><a href="https://github.com/ChatOverlay">ClaTalk</a><sub>(2024.03.22 ~ )</sub></li>
+
+<h2>Team Projects</h2>
+<li><a href="https://github.com/UMC-Matching-Center/U.M.C_Web">UMC Matching Center</a> <sub>(2023.12 ~ 2024.02, Frontend)</sub></li>
+<li><a href="https://github.com/INFJournal/front-end">INFJournal</a> <sub>(2024.01.02 ~ 2024.01.03, Frontend)</sub></li>
+<li><a href="https://github.com/wagle-wagle-hackathon/front">SomeTimez</a> <sub>(2024.02.16 ~ 2024.02.17, Frontend)</sub></li>
+
+<h2>Solo Projects</h2>
+<li><a href="https://github.com/ChatOverlay">ClaTalk</a> <sub>(2024.03.22 ~ 2024.06.24, Frontend & Backend)</sub></li>
 
 <h1>📊 Stats</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=XinguOh&show_icons=true&theme=dark" />
