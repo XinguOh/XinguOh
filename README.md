@@ -4,7 +4,7 @@
 <h1>🏫 Activities</h1>
 <li><a href="https://www.makeus.in/umc">UMC 5기 GCU Web 파트 스터디리더</a> <sub>(2023.09 ~ 2024.02)</sub></li>
 <li><a href="https://www.makeus.in/umc">UMC 6기 GCU Web 파트장</a> <sub>(2024.02 ~ 2024.08)</sub></li>
-<li><a href="https://www.makeus.in/umc">UMC 7기 총괄</a> <sub>(2024.08 ~ 2025.08)</sub></li>
+<li><a href="https://www.makeus.in/umc">UMC 7기&8기 총괄</a> <sub>(2024.08 ~ 2025.08)</sub></li>
 
 <h1>👊 Projects</h1>
 
