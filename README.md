@@ -1,5 +1,5 @@
 <h1>📌 Introduction</h1>
-<a href="https://pumped-increase-62d.notion.site/Junyoung-Oh-a889c28ca48a4c42aafddf9017884537"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
+<a href="https://www.rallit.com/hub/resumes/1477465/%EC%98%A4%EC%A4%80%EC%98%81"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
 
 <h1>🏫 Activities</h1>
 <li><a href="https://www.makeus.in/umc">UMC 5기 GCU Web 파트 스터디리더</a> <sub>(2023.09 ~ 2024.02)</sub></li>
